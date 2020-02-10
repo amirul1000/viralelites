@@ -1,0 +1,93 @@
+[
+    {
+        "name": "cosenary/instagram",
+        "version": "v2.3",
+        "version_normalized": "2.3.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/cosenary/Instagram-PHP-API.git",
+            "reference": "fbf4c82e2cc7e9a7fd6f9fd7bba1fd2c506102a5"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/cosenary/Instagram-PHP-API/zipball/fbf4c82e2cc7e9a7fd6f9fd7bba1fd2c506102a5",
+            "reference": "fbf4c82e2cc7e9a7fd6f9fd7bba1fd2c506102a5",
+            "shasum": ""
+        },
+        "require": {
+            "ext-curl": "*",
+            "php": ">=5.2.0"
+        },
+        "time": "2014-11-29T13:10:42+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "MetzWeb\\Instagram\\": "src"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "BSD"
+        ],
+        "authors": [
+            {
+                "name": "Christian Metz",
+                "email": "christian-metz1@gmx.net",
+                "homepage": "http://metzweb.net"
+            }
+        ],
+        "description": "An easy-to-use PHP Class for accessing Instagram's API.",
+        "homepage": "https://github.com/cosenary/Instagram-PHP-API",
+        "keywords": [
+            "api",
+            "instagram"
+        ]
+    },
+    {
+        "name": "mgp25/instagram-php",
+        "version": "v1.5.1",
+        "version_normalized": "1.5.1.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/mgp25/Instagram-API.git",
+            "reference": "63ab5675ab47bbb6e1c433a730763cf9000f4cfb"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/mgp25/Instagram-API/zipball/63ab5675ab47bbb6e1c433a730763cf9000f4cfb",
+            "reference": "63ab5675ab47bbb6e1c433a730763cf9000f4cfb",
+            "shasum": ""
+        },
+        "require": {
+            "ext-curl": "*",
+            "ext-gd": "*",
+            "php": ">=5.4"
+        },
+        "time": "2016-11-03T23:10:46+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "classmap": [
+                "src/"
+            ]
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "mgp25",
+                "email": "me@mgp25.com"
+            }
+        ],
+        "description": "Instagram private API PHP",
+        "keywords": [
+            "api",
+            "instagram",
+            "php",
+            "private"
+        ]
+    }
+]

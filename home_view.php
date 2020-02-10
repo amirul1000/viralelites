@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="en">
+
+
+
+
+<!-- Mirrored from infinicore.net/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 16 Aug 2018 16:40:12 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+	<meta charset="utf-8">
+	<title>ViralElites - Real Instagram Growth</title>
+	<meta name="viewport" content="width=device-width, initial-scale=0.89, minimum-scale=0.89 user-scalable=0">
+    <!-- Add to homescreen for Chrome on Android -->
+	<meta name="mobile-web-app-capable" content="yes">
+  <link rel="icon" sizes="192x192" href="static/images/Logo.html">
+   <!-- Add to homescreen for Safari on iOS -->
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-title" content="InfiniCore">
+  <link rel="apple-touch-icon-precomposed" href="static/images/Logo.html">
+  <!-- Tile icon for Win8 (144x144 + tile color) -->
+  <meta name="msapplication-TileImage" content="images/touch/ms-touch-icon-144x144-precomposed.html">
+  <meta name="msapplication-TileColor" content="#3372DF">
+
+  <link rel="apple-touch-icon" sizes="57x57" href="static/images/icons/fav_icon/apple-touch-icon-57x57-precomposed.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="static/images/icons/fav_icon/apple-touch-icon-60x60-precomposed.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="static/images/icons/fav_icon/apple-touch-icon-72x72-precomposed.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="static/images/icons/fav_icon/apple-touch-icon-76x76-precomposed.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="static/images/icons/fav_icon/apple-touch-icon-114x114-precomposed.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="static/images/icons/fav_icon/apple-touch-icon-120x120-precomposed.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="static/images/icons/fav_icon/apple-touch-icon-144x144-precomposed.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="static/images/icons/fav_icon/apple-touch-icon-152x152-precomposed.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="static/images/icons/fav_icon/apple-touch-icon-180x180-precomposed.png">
+
+  <link rel="mask-icon" href="static/images/icons/fav_icon/safari-pinned-tab.svg" color="#2a94cb">
+  
+
+  <link rel="icon" type="image/png" sizes="192x192"  href="static/images/icons/fav_icon/android-chrome-192x192.png">
+  <link rel="icon" type="image/png" sizes="512x512"  href="static/images/icons/fav_icon/android-chrome-512x512.png">
+
+  <link rel="icon" type="image/png" sizes="32x32" href="static/images/icons/fav_icon/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="static/images/icons/fav_icon/favicon-16x16.png">
+
+  <link rel="manifest" href="static/images/icons/fav_icon/manifest.json">
+  <meta name="msapplication-TileColor" content="#9f00a7">
+  <meta name="msapplication-TileImage" content="static/images/icons/fav_icon/mstile-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+
+  <!-- <link rel="shortcut icon" href="/static/images/Icon_png_BG.png"> -->
+
+  <link rel="shortcut icon" href="static/favicon.ico">
+
+
+  <!-- SEO: If your mobile URL is different from the desktop URL, add a canonical link to the desktop page https://developers.google.com/webmasters/smartphone-sites/feature-phones -->
+  <!--
+  <link rel="canonical" href="http://www.example.com/">
+  -->
+  <link rel="stylesheet" href="static/css/styles.css">
+  <link rel="stylesheet" href="static/css/mdl-light-blue.css" id="styleshit">
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:regular,bold,italic,thin,light,bolditalic,black,medium&amp;lang=en">
+
+  
+
+  <link href="static/css/bootstrap.min.css" rel="stylesheet">
+  <link href="static/css/bootstrap-select.css" rel="stylesheet">
+  <link href="static/css/panel.css" rel="stylesheet">
+
+  <link href="static/css/expanding-card.css" rel="stylesheet">
+
+  <link href="static/css/modal.css" rel="stylesheet">
+  <link href="static/css/animate.css" rel="stylesheet">
+
+  <link href="static/css/text_reveal.css" rel="stylesheet">
+  
+  <!-- <link href="/static/css/mdl-select.css" rel="stylesheet"> -->
+  <link href="static/css/popup_guide/hopscotch.css" rel="stylesheet">
+
+  
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.0/css/font-awesome.min.css" rel="stylesheet">
+  
+  <meta name="google-site-verification" content="sxktv-SOEOzse9yV7cahHtujZ30_DwPA49zZ7kzZ2u0" />
+
+</head>
+
+<body>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script type="text/javascript" src="../static/js/bootstrap.min.js"></script>
+
+  <script src="https://code.getmdl.io/1.3.0/material.min.js"></script>
+  <!-- <script src="/static/js/mdl-select.js"></script> -->
+  <!-- <script src="/static/js/bootstrap-select.js"></script> -->
+  <!-- <script src="/static/js/bootstrap-notify.min.js"></script> -->
+  
+  
+
+  <link rel="stylesheet" href="static/css/index_reset.css" id="styleshit"> <!-- CSS reset -->
+  <link rel="stylesheet" href="static/css/index_style.css" id="styleshit"> <!-- Resource style -->
+  <link rel="stylesheet" href="static/css/index_rotatingtext.css" id="styleshit"> <!-- text -->
+
+  <link rel="stylesheet" href="static/css/start_here_but.css" id="styleshit"> <!-- Resource style -->
+
+  <script type="text/javascript" src="static/js/ipoints_modernizr.js"></script> <!-- Modernizr -->
+  <script type="text/javascript" src="static/js/index_modernizr.js"></script> <!-- Modernizr -->
+
+<body>
+	<header class="cd-header" data-type="slider-item">
+		<!-- <h1>Massiv Organissk Vækst, uden at købe følgere - SoMeKernen</h1> -->
+		<h1>
+			<div class="rotate center-vertical">
+			  <div id="inner" class="inner rot">
+			    <h3>ViralElites</p>
+			    <h3>Massive</p>
+			    <h3>Organic</p>
+			    <h3>Growth</p>
+			    <h3>On</p>
+			    <h3>Instagram</p>
+			    <h3>ViralElites.</p>
+			  </div>
+			</div>
+			<br>
+			<a href="register" class="button button2">START HERE</a>
+		</h1>
+	</header>
+
+
+
+<style type="text/css">
+</style>
+
+
+	<section class="cd-fixed-background img-1" data-type="slider-item">
+		<div class="cd-content light-background">
+			<h2>[1] Organic Growth on Instagram</h2>
+			<p>
+				Increase your reach and invite followers organically to your Instagram with automatic niche specific engagement pods.
+				Save time, go viral and increase your reach with niche specific likes and comments.
+			</p>
+
+			<br>
+			<p>
+				<a href="register" class="button">Start Here</a>
+			</p>
+		</div>
+	</section>
+
+	
+
+ 
+	<section class="cd-fixed-background img-2" data-type="slider-item">
+		<div class="cd-content">
+			<h2>[2] Get Likes From Accounts Within Your Niche</h2>
+			<p>
+				Imagine getting likes and comments from accounts that are in the same niche as you, all done automatically as soon as you make a new post. InfiniCore brings niche specific accounts together, so they can exchange their followers and grow viral.  
+			</p> 
+		</div>
+	</section>
+
+	<section class="cd-fixed-background img-2-1" data-type="slider-item">
+		<div class="cd-content light-background">
+			<h2>[3] The Most Secure Platform</h2>
+			<p>
+				2 very important factors that adds up to InfiniCore's security: 1) we do not store your Instagram Password and 2) we use a distributed server system.
+			</p>
+		</div>
+	</section>
+
+	<section class="cd-fixed-background img-3" data-type="slider-item">
+		<div class="cd-content">
+			<h2>[4] Get More Account Visits by Using The Correct Hashtags</h2>
+			<p> 
+				[Comming Soon] By using the correct hashtags, you will achieve a greater reach and more traffic to your account. A typical strategic hashtag analysis (e.g. calculating averages) takes 6-8 hours. With InfiniCore, the total time is reduced to max 30 min.
+			<p> 
+		</div>
+	</section>
+
+	<section class="cd-fixed-background img-4" data-type="slider-item">
+		<div class="cd-content">
+			<h2>[5] Know Exactly How to Fine Tune Your Growth</h2>
+			<p>
+				[Comming Soon] InfiniCore gives you an indicative overview of your Trust Score, Engagement Score and other statistics to help improve your reach and become one of Instagram's most favorite accounts.
+			</p>
+		</div>
+	</section>
+
+	<section class="cd-fixed-background img-42" data-type="slider-item">
+		<div class="cd-content">
+			<!-- images of  growth -->
+		</div>
+	</section>
+
+	<section class="cd-fixed-background img-5" data-type="slider-item">
+		<div class="cd-content light-background">
+			<p>
+				<h2>Ultimate Social Media Growth</h2>
+				<p>Our vision is to become your no. 1 tool to go viral on Instagram.</p>
+				<br>
+				<a href="register" class="button">START HERE</a>
+			</p>
+		</div>
+	</section>
+
+	<nav>
+		<ul class="cd-vertical-nav">
+			<li><a href="#0" class="cd-prev inactive">Next</a></li>
+			<li><a href="#0" class="cd-next">Prev</a></li>
+		</ul> 
+	</nav> 
+  <script type="text/javascript" src="static/js/index_main.js"></script> <!-- Resource jQuery -->
+  <script type="text/javascript" src="static/js/ipoints_main.js"></script> <!-- Resource jQuery -->
+  <script type="text/javascript" src="static/js/index_rotatingtext.js"></script> <!-- Resource jQuery -->
+</body>
+
+
+
+  	  
+
+</body>
+
+
+<!-- Mirrored from infinicore.net/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 16 Aug 2018 16:40:26 GMT -->
+</html>	  

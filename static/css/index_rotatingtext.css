@@ -1,0 +1,69 @@
+@import url(https://fonts.googleapis.com/css?family=Righteous);
+
+/*html, body { 
+  height:100%;
+top:0;
+left:0;
+  overflow-y:hidden;
+}
+body {
+  margin:auto 0;
+  background:url("https://res.cloudinary.com/dnhwxgf8i/image/upload/c_scale,h_718,q_100/v1487689941/kamil-lehmann-379_lz8idf.jpg") no-repeat;
+  background-size:cover ;
+  background-position:center;
+  text-align:center;
+}*/
+
+
+.rotate {
+  height:100%;
+  top:0;
+  left:0;
+  overflow-y:hidden;
+  margin:auto 0;
+  text-align:center;
+  font-family: "Roboto";
+  /*font-size: 4.0rem;*/
+  font-weight: 500;
+  font-size:calc(100% + 6vw);
+  height:100px;
+  overflow:hidden;
+  position:relative;
+  z-index:30;
+
+}
+
+.inner {
+  height:100px;
+  -webkit-transition:-webkit-transform 0.4s ease;
+  -webkit-backface-visibility:hidden;
+  
+}
+
+h3 {
+  margin:0;
+  padding:0;
+  height:100px;
+  white-space:nowrap;
+  overflow:hidden;
+  text-overflow:ellipsis; 
+  font-color: #fff;
+  /*background-image:-webkit-linear-gradient(#fff,#E1037C);*/
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.55);
+  -webkit-background-clip: text;
+  /*-webkit-text-fill-color: transparent;*/
+}
+
+.rotate, .inner, h3 {
+  height:180px;
+}
+
+
+@media only screen and (min-width: 768px) {
+  .rotate {
+    font-size:calc(100% + 8vw);
+  }
+  .rotate, .inner, h3 {
+    height:220px;
+  }
+}

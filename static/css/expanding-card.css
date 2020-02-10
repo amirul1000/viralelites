@@ -1,0 +1,356 @@
+.form-container {
+  font-family: Roboto, sans-serif;
+  width: 100%;
+  /*height: 100%;*/
+  /*margin: 0;*/
+  /*padding: 0;*/
+  color: #FFF;
+  /*background: #FAFAFA;*/
+}
+
+h6 {
+  font-weight: 500;
+  font-size: 30px;
+  margin: -10px 0 0 0;
+  padding: 10px 20px 5px;
+}
+
+
+p2 {
+  font-size: 16px;
+  padding: 0 20px;
+}
+
+
+.text-expanded {
+    color: #606060;
+    font-size: 1.075em;
+    /*margin-left: 8px;*/
+    margin: 10px auto;
+
+}
+
+
+p3 {
+  font-size: 16px;
+  padding: 0 20px;
+}
+
+body3 {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  line-height: 1.42857143;
+  color: #333;
+  background-color: #fff;
+}
+
+em {
+  font-style: normal;
+  color: #ffef00;
+}
+
+a {
+  font-style: normal;
+  color: #FFD740;
+  text-decoration: none;
+  padding-right: 10px;
+  cursor: pointer;
+}
+
+.sub {
+  margin: 0;
+}
+
+.expand_button {
+  font-family: 'Arial', sans-serif;
+  cursor: pointer;
+  width: 60px;
+  height: 60px;
+  display: inline-block;
+  font-size: 35px;
+  line-height: 60px;
+  font-weight: bold;
+  -webkit-transform: rotate(0deg);
+          transform: rotate(0deg);
+  -webkit-transition: all 0.7s cubic-bezier(0.4, 0, 0.2, 1);
+  transition: all 0.7s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.expand .expand_button {
+  -webkit-transform: rotate(585deg);
+          transform: rotate(585deg);
+  -webkit-transition: all 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+  transition: all 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+  /*EXPANDED POD CARD HERE*/
+.container2 {
+  -webkit-appearance: none;
+  z-index: 2;
+  position: fixed;
+  margin: auto;
+  /*left: 800;*/
+
+  right: 3%;
+  bottom: 50%;
+  top: 50%;
+
+/*  right: 0;
+  bottom: 0;
+  margin-right: 5%;
+  top: -6vh;*/
+  background-color: #4fc3f7;
+  border-radius: 50%;
+  width: 60px;
+  /*max-width: 60px;*/
+  height: 60px;
+  text-align: center;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+  overflow: hidden;
+  -webkit-transition: all 0.2s 0.45s, height 0.2s cubic-bezier(0.4, 0, 0.2, 1) 0.25s, max-width 0.2s cubic-bezier(0.4, 0, 0.2, 1) 0.35s, width 0.2s cubic-bezier(0.4, 0, 0.2, 1) 0.35s;
+  transition: all 0.2s 0.45s, height 0.2s cubic-bezier(0.4, 0, 0.2, 1) 0.25s, max-width 0.2s cubic-bezier(0.4, 0, 0.2, 1) 0.35s, width 0.2s cubic-bezier(0.4, 0, 0.2, 1) 0.35s;
+}
+
+
+  /*POD CARD HERE*/
+.container2.expand {
+  z-index: 2;
+  box-shadow: 0 30px 50px rgba(0, 0, 0, 0.39), 0 16px 16px rgba(0, 0, 0, 0.37);
+  border-radius: 0;
+  width: 600px; /*height: 499px;*/
+  height: 585px; /*height: 440px;*/
+  /*top: -2vh;*/
+  /*max-height: 440px;*/
+/*  height: 500px;
+  width: 90%;*/
+  /*max-width: 600px;*/
+  padding: 0;
+  -webkit-transition: all 0.2s, max-width 0.2s cubic-bezier(0.4, 0, 0.2, 1) 0.1s, height 0.3s ease 0.25s;
+  transition: all 0.2s, max-width 0.2s cubic-bezier(0.4, 0, 0.2, 1) 0.1s, height 0.3s ease 0.25s;
+}
+
+
+
+  /*ACCOUNT CARD HERE*/
+.containerAccount {
+  -webkit-appearance: none;
+  z-index: 2;
+  position: fixed;
+  margin: auto;
+  /*left: 800;*/
+
+  right: 3%;
+  bottom: 50%;
+  top: 50%;
+
+/*  right: 0;
+  bottom: 0;
+  margin-right: 5%;
+  top: -6vh;*/
+  background-color: #4fc3f7;
+  border-radius: 50%;
+  width: 60px;
+  /*max-width: 60px;*/
+  height: 60px;
+  text-align: center;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+  overflow: hidden;
+  -webkit-transition: all 0.2s 0.45s, height 0.2s cubic-bezier(0.4, 0, 0.2, 1) 0.25s, max-width 0.2s cubic-bezier(0.4, 0, 0.2, 1) 0.35s, width 0.2s cubic-bezier(0.4, 0, 0.2, 1) 0.35s;
+  transition: all 0.2s 0.45s, height 0.2s cubic-bezier(0.4, 0, 0.2, 1) 0.25s, max-width 0.2s cubic-bezier(0.4, 0, 0.2, 1) 0.35s, width 0.2s cubic-bezier(0.4, 0, 0.2, 1) 0.35s;
+}
+
+
+
+
+  /*EXPANDED ACCOUNT CARD HERE*/
+.containerAccount.expand {
+  /*overflow: auto;*/
+  z-index: 2;
+  box-shadow: 0 30px 50px rgba(0, 0, 0, 0.39), 0 16px 16px rgba(0, 0, 0, 0.37);
+  border-radius: 0;
+  /*width: 82%;*/
+  width: 600px;
+  /*height: 358px;*/
+  height: 440px;
+  /*min-height: 380px;*/
+  max-width: 600px;
+  padding: 0;
+  -webkit-transition: all 0.2s, max-width 0.2s cubic-bezier(0.4, 0, 0.2, 1) 0.1s, height 0.3s ease 0.25s;
+  transition: all 0.2s, max-width 0.2s cubic-bezier(0.4, 0, 0.2, 1) 0.1s, height 0.3s ease 0.25s;
+}
+
+.content2 {
+  /*overflow-y: auto;*/
+
+  -webkit-transform: translateY(100%);
+          transform: translateY(100%);
+  width: 100%;
+  height: 100%;
+  opacity: 0;
+  text-align: left;
+  -webkit-transition: opacity 0.2s 0.2s, -webkit-transform 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+  transition: opacity 0.2s 0.2s, -webkit-transform 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+  transition: transform 0.2s cubic-bezier(0.4, 0, 0.2, 1), opacity 0.2s 0.2s;
+  transition: transform 0.2s cubic-bezier(0.4, 0, 0.2, 1), opacity 0.2s 0.2s, -webkit-transform 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+@media only screen and (max-height: 580px) {
+  .containerAccount {
+    top: 2vh;
+  }
+
+  .container2 {
+    top: 2vh;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  /*ADJUST THE BOT PLACEMENENT HERE*/
+    p2 {
+    font-size: 14px;
+    padding: 0 20px;
+  }
+
+  .containerAccount {
+    right: 3%;
+    bottom: 50%;
+    top: 50%;
+  }
+
+  /*WHEN EXPANDED*/
+  .containerAccount.expand {
+    /*overflow: auto;*/ 
+    width: 94%;
+    /*height: 590px;*/
+  }
+
+  .container2 {
+    right: 3%;
+    bottom: 50%;
+    top: 50%;
+  }
+
+  .container2.expand{
+    /*overflow: auto;*/
+    width: 94%;
+    /*height: 60%;*/
+  }
+
+  h5 {
+  /*font-weight: 500;*/
+  /*font-size: 12px;*/
+  /*margin: -10px 0 0 0;*/
+  /*padding: 0 20px;*/
+}
+
+  h6 {
+  /*font-weight: 500;*/
+  /*font-size: 24px;*/
+  /*margin: -10px 0 0 0;*/
+  /*padding: 0 20px;*/
+  }
+}
+
+
+.input-padding {
+  padding: 100px 0;
+}
+
+
+
+
+.expand .content2 {
+  -webkit-transform: translateY(0px);
+          transform: translateY(0px);
+  opacity: 1;
+  -webkit-transition: opacity 0s, -webkit-transform 0.7s cubic-bezier(0.4, 0, 0.2, 1) 0.05s;
+  transition: opacity 0s, -webkit-transform 0.7s cubic-bezier(0.4, 0, 0.2, 1) 0.05s;
+  transition: transform 0.7s cubic-bezier(0.4, 0, 0.2, 1) 0.05s, opacity 0s;
+  transition: transform 0.7s cubic-bezier(0.4, 0, 0.2, 1) 0.05s, opacity 0s, -webkit-transform 0.7s cubic-bezier(0.4, 0, 0.2, 1) 0.05s;
+}
+
+.content2 .head {
+  padding: 0 0 20px 0;
+}
+
+.content2 .body {
+  color: #000;
+  color: rgba(0, 0, 0, 0.87);
+  background-color: #FFF;
+  width: 100%;
+  height: 77%;
+  /*padding: 10px 0;*/
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.action-bar {
+  padding-left: 15px;
+  border-top: 1px solid #E0E0E0;
+  width: 100%;
+}
+
+.action-bar a {
+  text-transform: uppercase;
+  line-height: 52px;
+  color: #FFC400;
+}
+
+
+/******************************/
+/*@media only screen and (max-width: 768px) {*/
+
+  .providesAccount{
+    margin-bottom: 16px;
+  }
+  .providesAccount button{
+    padding:  15px;
+
+    font-size: 1em;
+  }
+
+  .followers{
+    margin-bottom: 16px;
+  }
+  .followers button{
+    padding:  15px;
+    font-size: 1em;
+  }
+
+  .chooseLikeType{
+    margin-bottom: 16px;
+  }
+  .chooseLikeType button{
+    padding: 15px 0;
+    padding-left: 10px;
+    font-size: 1em;
+  }
+
+  .receivingAccount{
+    margin-top: 5px;
+    margin-bottom: 16px;
+  }
+  .receivingAccount input{
+    padding: 25px;
+    font-size: 1em;
+  }
+/*}*/
+
+@media only screen and (max-height: 600px) {
+  .content2 .body {
+    height: 125%;
+  }
+}
+/******************/
+
+/*.container2::-webkit-scrollbar-track{
+  background-color: #26A69A;
+}
+
+.container2::-webkit-scrollbar{
+  width: 6px;
+}
+
+.container2::-webkit-scrollbar-thumb{
+  border-radius: 10px;
+  background-color: #555;*/
