@@ -9,9 +9,8 @@ This system is for Buyer and seller of likes comments share & providing ad in so
 
 
 
-Youtube Tutorial : https://youtu.be/hGv0dvVflUU
+Youtube Tutorial : https://youtu.be/P8j05zudVkc
 
-Youtube Channel : https://www.youtube.com/channel/UC2Q4oWfoMQzi6AES8Vb2vQw?view_as=subscriber
 
 Donate to Paypal : patabuz@gmail.com
 
